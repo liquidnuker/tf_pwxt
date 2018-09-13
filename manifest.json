@@ -1,0 +1,112 @@
+{
+    "dir": "ltr",
+    "lang": "de",
+    "name": "tf_pwxt",
+    "scope": "/tf_pwxt/",
+    "display": "browser",
+    "start_url": "https://liquidnuker.github.io/tf_pwxt/",
+    "short_name": "pwxt",
+    "theme_color": "transparent",
+    "description": "hello world",
+    "orientation": "any",
+    "background_color": "transparent",
+    "related_applications": [],
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "/images/92dbf7c2-f2a2-7a67-c787-5561282664b9.webPlatform.png",
+            "sizes": "44x44",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/5a8f50f6-e494-4d38-5ea6-f7b8df041378.webPlatform.png",
+            "sizes": "48x48",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/b874d97c-c419-43c1-2919-64e031f70cf5.webPlatform.png",
+            "sizes": "1240x600",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/748e9d2a-94ff-c2d7-935e-fe35667d361c.webPlatform.png",
+            "sizes": "300x300",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/3afbf4d5-7d33-b19c-3a9c-4d7497bdf014.webPlatform.png",
+            "sizes": "150x150",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/18a2c909-373c-ef71-ed4e-eef10d640eb9.webPlatform.png",
+            "sizes": "88x88",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/69a2c06f-92fc-4f54-68ed-f312ebe9a855.webPlatform.png",
+            "sizes": "24x24",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/dc06e74b-dc7b-e2c5-c9d8-720b01deb8b3.webPlatform.png",
+            "sizes": "50x50",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/6c04667f-4800-c928-e6a6-d1d4020de17b.webPlatform.png",
+            "sizes": "620x300",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/295567d3-e642-b920-e0d1-4712ef3b406a.webPlatform.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/4966b45a-d6d0-283b-2878-64ef930a4760.webPlatform.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/4478f25e-6408-022a-f175-2671e067c413.webPlatform.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/3f754de3-c907-2429-b6c6-f4092e3af0e9.webPlatform.png",
+            "sizes": "72x72",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/df2beb0c-ef2a-5692-a774-a70fde00dd78.webPlatform.png",
+            "sizes": "36x36",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/76f5043f-4084-f389-ae6f-870a070fe8ef.webPlatform.png",
+            "sizes": "1024x1024",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/77e30101-b401-0435-ca33-5ff5707b12db.webPlatform.png",
+            "sizes": "180x180",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/86bc1257-23a0-1d81-20e4-2130ddcb393a.webPlatform.png",
+            "sizes": "152x152",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/a793e264-ac97-3dbd-6347-6ea937610014.webPlatform.png",
+            "sizes": "120x120",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/d1b6814f-43f5-3c67-57b2-4ecfa4d9fda5.webPlatform.png",
+            "sizes": "76x76",
+            "type": "image/png"
+        }
+    ]
+}
